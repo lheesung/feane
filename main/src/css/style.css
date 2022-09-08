@@ -1,0 +1,13 @@
+#order-btn{
+    display: inline-block;
+    padding: 8px 30px;
+    background-color: #ffbe33;
+    border-radius: 20px;
+    border-style: none;
+    color: white;
+    font-size: 15px;
+    white-space: nowrap;
+}
+#order-btn:hover{
+    background-color: #e69c00;
+}

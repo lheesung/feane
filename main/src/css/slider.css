@@ -1,0 +1,11 @@
+.slider{
+    color:white;
+    width: 450px;
+    height: 200px;
+    margin-top: 10%;
+    margin-left:21%;
+}
+.slider > h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 45px;
+}

@@ -65,18 +65,3 @@
   #header-item > li > a:hover{
     color: #FFBE33;
   }
-  
-  #header-item > li > button {
-    display: inline-block;
-    padding: 8px 30px;
-    background-color: #ffbe33;
-    border-radius: 20px;
-    border-style: none;
-    color: white;
-    font-size: 15px;
-    white-space: nowrap;
-  }
-  
-  #header-item > li > button:hover {
-    background-color: #e69c00;
-  }
