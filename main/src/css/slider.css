@@ -4,6 +4,8 @@
     height: 200px;
     margin-top: 10%;
     margin-left:21%;
+    position: absolute;
+    right: -30%;
 }
 .slider > h1{
     font-family: 'Dancing Script', cursive;
